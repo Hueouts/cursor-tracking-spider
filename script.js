@@ -78,7 +78,7 @@ class Dot {
     }
   }
 }
-
+// initialization successful 
 function init() {
   dotsArray.length = 0;
   let numberOfDots = (canvas.width * canvas.height) / 7000;
